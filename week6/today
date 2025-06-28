@@ -1,0 +1,5 @@
+여러 모델을 테스트 했는데 좋은 모델은 잘 생성해주고,
+일부 모델은 만족스럽지 않았다. 해 본 결과 사람을 상대적으로 더 잘 그리는 것 같다.
+
+애니메이션 생성 프롬프트
+anime still {}, emotional, harmonious, soft lighting, highly detailed, high-quality cel shading, dreamy, shallow depth of field, cinematic composition, moody, epic, beautiful, anime film grain, painterly texture, studio ghibli style, rich color palette
