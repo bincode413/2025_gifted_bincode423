@@ -1,35 +1,36 @@
------
+---
 
-# 2025 Gifted 프로그램: bincode423
+# 2025 Gifted Program: bincode423
 
-이 저장소는 `bincode423`이 참여하는 **2025 Gifted 프로그램**을 위한 학습 일지 및 자료 허브입니다. 주차별로 핵심 학습 내용과 결과물이 정리되어 있으며, 각 주차의 세부 내용은 해당 디렉토리 내의 "today" 파일에 기록되어 있습니다.
+This repository serves as the **learning journal and resource hub** for `bincode423` participating in the **2025 Gifted Program**. It summarizes the core learning topics and outcomes on a weekly basis, with detailed notes stored in the "today" file within each week's directory.
 
------
+---
 
-## 🚀 이 저장소에 대하여
+## 🚀 About This Repository
 
-이 저장소는 2025 Gifted 프로그램의 진행 상황과 주요 학습 성과를 체계적으로 기록하기 위해 만들어졌습니다. **간단한 텍스트 생성 모델부터 LLM 활용, 그리고 이미지/영상 생성까지**, 다양한 인공지능 기술을 탐구한 여정을 담고 있습니다. 각 주의 내용은 별도의 디렉토리에 담겨 있어 학습 과정을 한눈에 파악할 수 있습니다.
+This repository was created to systematically document the progress and key learning outcomes of the 2025 Gifted Program. It captures the journey of exploring a wide range of AI technologies — **from simple text generation models, to leveraging LLMs, and finally to image/video generation**. Each week’s work is stored in a dedicated directory, making it easy to review the learning process at a glance.
 
+---
 
------
+## 🗓️ Weekly Key Learning Topics
 
-## 🗓️ 주차별 주요 학습 내용
+Inside each `week` directory, the `today` file contains detailed notes, code, and reflections for that week. The main topics covered are:
 
-각 `week` 디렉토리 안의 `today` 파일에는 해당 주차에 대한 상세한 내용과 코드, 회고가 담겨 있습니다. 주요 내용은 다음과 같습니다:
+* **Week 1 & 2: Basics of Text Generation Models**
 
-  * **Week 1 & 2: 텍스트 생성 모델 기초**
+  * A **brief introduction to AI and models**.
+  * Building and implementing a **simple random text generation model** from scratch.
+  * Documented initial trials and errors during the coding and learning process.
 
-      * 인공지능 및 모델에 대한 **간단한 소개**가 이루어졌습니다.
-      * **단순 랜덤 텍스트 생성 모델**을 직접 만들고 구현하는 과정을 다루었습니다.
-      * 코드 및 학습 과정에서의 초기 시행착오가 기록되어 있습니다.
+* **Week 3 & 4: Leveraging LLMs (Large Language Models)**
 
-  * **Week 3 & 4: LLM(거대 언어 모델) 활용**
+  * Learning to **use and explore LLMs** with tools such as **Ollama**.
+  * Hands-on practice with LLMs for basic usage, Q\&A, text summarization, and other applications.
+  * Exploration of both the **potential and limitations** of LLMs.
 
-      * **Ollama**와 같은 도구를 활용하여 **LLM을 사용하고 탐색**하는 방법을 학습했습니다.
-      * LLM의 기본적인 사용법, 질의응답, 텍스트 요약 등 다양한 적용 사례를 실습했습니다.
-      * LLM의 잠재력과 한계에 대한 탐구가 이루어졌습니다.
+* **Week 5 & 6: Visual AI with ComfyUI**
 
-  * **Week 5 & 6: ComfyUI를 활용한 시각적 AI**
+  * Getting started with **image generation** using **ComfyUI**, learning to create creative outputs through a node-based interface.
+  * Expanding into **video generation** with ComfyUI, experiencing the techniques and workflows needed to produce dynamic content.
 
-      * **ComfyUI**를 사용하여 **이미지 생성**을 시작했습니다. 노드 기반의 인터페이스를 통해 창의적인 이미지를 만드는 방법을 익혔습니다.
-      * 이어서 ComfyUI를 활용하여 **영상 생성**까지 확장했습니다. 동적인 콘텐츠를 만드는 데 필요한 기술과 워크플로우를 경험했습니다.
+---
